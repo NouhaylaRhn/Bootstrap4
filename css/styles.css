@@ -55,3 +55,18 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+
+
+
+.modal {
+  background-color:#512DA8;
+
+  
+}
+
+
+.modal-header {
+  background-color: #9575CD;
+ 
+}
